@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "title": "Nestle Pure Life Still Spring Water Multipack 12x500ml",
+      "price": 2.35,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/7bec9dc3-37d2-4b6f-a9ef-070a0b067fa1/693875bc-482b-43a8-ac07-0b1de0aaaf48_3972396.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestle Nesquik Milk Slice Chocolate Flavour 4X26g",
+      "price": 1.4,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/db824eed-bf47-4d89-b960-be25913de068/e89965f1-6674-46d3-937e-e9d120cffbdc.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestle Milkybar Dessert 2X65g",
+      "price": 1.85,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/79519334-37fe-4498-bae2-80e9c5f3eec2/e98bfb22-bd16-4e2c-acdd-c8334108e998.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestle Milkybar Mousse 4 X55g",
+      "price": 1.9,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/1b5d6b9d-8d4e-4642-8e55-98cba6770680/43dc02cc-4975-47a2-97ff-f7570cd0f650.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestle Rolo Dessert 2X65g",
+      "price": 1.85,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/9163f900-76c1-4bc6-b051-9babb5d4a918/1c1d1021-18ab-427e-bc0c-64114a014828.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestlé Shreddies Original Cereal 630g",
+      "price": 3.5,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/13cdc5e0-f9d1-461f-843d-23ae59a8d25d/bacc3acc-f3f8-4245-a55e-010f442d8b8e_816386135.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestle Cheerios, Wholegrain Cereal, Multigrain, 500g",
+      "price": 3.25,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/24722e39-cad2-44bd-8472-e2f1dfd76864/022dfeac-9b85-4598-a97e-908f6ed3090e_292975854.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestlé Cheerios Multigrain Cereal 800g",
+      "price": 3.95,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/7c1851da-7613-4cf3-b32f-3cdd10cbd70e/94f6210d-ab63-4a5c-8201-1c81e14a30fc_625062601.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestlé Shredded Wheat Bitesize Cereal 720g",
+      "price": 4.4,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/78d15ba7-952a-408e-b5f0-4b91d1888c44/31c7e833-be07-4d6b-a66a-006a9916b94e_1729373360.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestlé Shreddies Original Cereal 1.1kg",
+      "price": 3.9,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/fc429899-0750-41ca-b2ea-1f8fdd55ea90/c3ee5845-56ba-480e-af0b-af06b0053fd1_1346167960.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestle Fab Strawberry Ice Lollies 6 X 58Ml",
+      "price": 2.5,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/d53fcb5c-b66a-4a73-ab79-ec09462e90c3/6c3011b0-5968-40ff-afd9-ccb6fe3d7691.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestlé Cheerios Honey Cereal 575g",
+      "price": 4.4,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/6ee55e9a-8439-48ac-b24b-6d2ac5594109/479d8196-e38f-4799-951b-3c6d2d39707f_1011005047.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestlé Curiously Cinnamon Cereal 375g",
+      "price": 3.7,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/f024d75e-f395-45cc-90d0-1cd95b9b5056/27f12060-7a66-4d12-a71a-4028d8e39b76_415656618.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestle Pure Life Sparkling Spring Water 8 x 500ml",
+      "price": 2.5,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/d11cc025-09a5-4ae6-b62b-2512b963604e/8493909c-cf28-4b2a-97b9-a8de6560d267_828075165.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestlé Golden Nuggets Cereal 375g",
+      "price": 3,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/404a3f68-20d9-4e88-828b-c52977d9dc31/0699ea80-4265-4395-b614-637840c06e62_1526329561.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestlé Shredded Wheat Cereal 30 Biscuits 675g",
+      "price": 3.5,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/8ca5fc47-0328-4535-9979-3e15ea11bdfa/f4edd9cd-ade3-44b9-b9ba-65f4bd726643_1864301030.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestle Shreddies Frosted Cereal 600g",
+      "price": 3.5,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/166c5ed9-4f20-4bf8-9933-3dca4d302b57/09996d09-0d85-486e-9d45-ba8a35b4f464_1348937904.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestle Shreddies, Wholegrain Cereal, Original, 390G",
+      "price": 2,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/6947c2cd-2ac3-4923-8382-fc56c6c18eec/6d3ee6c8-3787-43b6-9e19-89b1582bde52_1625182145.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestlé Cheerios Honey Cereal 370g",
+      "price": 3.55,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/d0213dce-0266-42f9-9140-68f9ae4c5872/a40d4d7d-4956-475a-ab54-9bae13e1d1c3_71309991.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestle Shreddies Coco Cereal 600g",
+      "price": 3.5,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/34edca58-0432-4ef7-b2fd-b0c6adcad455/665ad124-1c9c-4b8c-ac9b-b02e01b3ff2e_2044879178.jpeg?h=225&w=225"
+    },
+    {
+      "title": "NESTLE Nesquik Minis Cereal cocoa balls 300 g",
+      "price": 2.75,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/8665f51d-54e0-4f2d-bf86-3b45c1772bc3/76544e30-736d-444a-b8c4-62382bc837d7_300859497.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestle Lion Caramel & Chocolate Wholegrain Cereal 400g",
+      "price": 2.75,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/0c9badf2-e138-44d5-ac6c-ae4cb8259fec/1c816e34-d30b-42d0-b4b9-8b94d723fb46_1267770487.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestle Kit Kat Cereal 330G",
+      "price": 3.5,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/3adbf664-789f-41f2-b1b2-a20772365c90/b500bf1a-1738-4fae-9022-a835b25099fc_1996147526.jpeg?h=225&w=225"
+    },
+    {
+      "title": "Nestlé Shredded Wheat Honey Nut Cereal 500g",
+      "price": 3.5,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/118e336b-7be8-4c93-a495-6ced392664ee/e061ad80-dcc9-49c1-984c-ee8a7ea6b980_1840883866.jpeg?h=225&w=225"
+    }
+  ]
+}
