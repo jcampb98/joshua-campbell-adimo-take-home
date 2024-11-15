@@ -6,31 +6,31 @@
         <title><% title %></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
+        <link rel="stylesheet" href="/index.css">
     </head>
     <body>
-        <h1>Challenge 2 - Web Scraping with User Input</h1>
+        <h1 class="page-heading">Challenge 2 - Web Scraping with User Input</h1>
         <form id="inputForm" method="post" action="/submit-input">
-            <label for="userInput">Enter an Item to search for:</label>
-            <input type="text" id="userInput" name="userInput" required>
+            <label class="input-label" for="userInput">Enter an Item to search for:</label>
+            <input class="input" type="text" id="userInput" name="userInput" required>
             <button type="submit">Submit</button>
         </form>
-        <div>
-            <ul>
+        <div class="items-container">
+            <ul class="products-list">
                 <% if (products.length > 0) { %>
                     <% products.forEach(product => { %>
-                        <li>
-                            <h2><%= product.title  %></h2>
+                        <li class="product-item">
+                            <h2 class="product-title"><%= product.title %></h2>
                             <% if(product.price == NaN || product.price == 0) { %>
-                                <p>This product is not available/out of stock</p>
+                                <p class="product-price">This product is not available/out of stock</p>
                             <% } else { %>
-                                <p>Price: £<%= product.price %></p>
+                                <p class="product-price">Price: £<%= product.price %></p>
                             <% } %>
-                            <img src="<%= product.image %>"/>
+                            <img class="product-image" src="<%= product.image %>"/>
                         </li>
                     <% }); %>
                 <% } else { %>
-                    <p>No products available.</p>
+                    <p class="no-products">No products available.</p>
                 <% } %>
             </ul>
         </div>

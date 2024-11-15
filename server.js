@@ -9,6 +9,7 @@ const app = express();
 
 app.use(express.urlencoded({ extended: true })); // Parse URL-encoded data
 app.use(express.json()); // Parse JSON data
+app.use(express.static(__dirname + '/public'));
 
 // Set EJS as the template engine
 app.set('view engine', 'ejs');
