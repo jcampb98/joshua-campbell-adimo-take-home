@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title><% title %></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <h1>Challenge 2 - Web Scraping with User Input</h1>
+        <form id="inputForm" method="post" action="/submit-input">
+            <label for="userInput">Enter an Item to search for:</label>
+            <input type="text" id="userInput" name="userInput" required>
+            <button type="submit">Submit</button>
+        </form>
+        <div>
+            <ul>
+                <% if (products.length > 0) { %>
+                    <% products.forEach(product => { %>
+                        <li>
+                            <h2><%= product.title  %></h2>
+                            <% if(product.price == NaN || product.price == 0) { %>
+                                <p>This product is not available/out of stock</p>
+                            <% } else { %>
+                                <p>Price: £<%= product.price %></p>
+                            <% } %>
+                            <img src="<%= product.image %>"/>
+                        </li>
+                    <% }); %>
+                <% } else { %>
+                    <p>No products available.</p>
+                <% } %>
+            </ul>
+        </div>
+    </body>
+</html>
